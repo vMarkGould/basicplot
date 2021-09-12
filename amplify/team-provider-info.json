@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-basicplot-dev-40201-authRole",
+      "UnauthRoleArn": "arn:aws:iam::045347871751:role/amplify-basicplot-dev-40201-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::045347871751:role/amplify-basicplot-dev-40201-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-basicplot-dev-40201-deployment",
+      "UnauthRoleName": "amplify-basicplot-dev-40201-unauthRole",
+      "StackName": "amplify-basicplot-dev-40201",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:045347871751:stack/amplify-basicplot-dev-40201/30a01f90-137e-11ec-bb16-0afab0aea520",
+      "AmplifyAppId": "d7iy7zlk9cvsm"
+    }
+  }
+}
